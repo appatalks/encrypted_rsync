@@ -1,4 +1,11 @@
 #!/bin/bash
+# VARIABLES (Not yet coded for)
+#
+# ENC_DEVICE=$1
+# MOUNT_POINT=$2
+# IP=$3
+# PORT=$4
+#
 #### AUTO MOUNT ENCRYPTED VOLUME ####
 echo "Sending Keyfile"
 echo "..."
