@@ -1,5 +1,5 @@
 #!/bin/bash
-# VARIABLES (Not yet coded for)
+# VARIABLES (Not yet coded for - Script is not yet polished but will give a good template)
 #
 # ENC_DEVICE=$1
 # MOUNT_POINT=$2
